@@ -1,1 +1,4 @@
-# Nho-m-13---CS112
+# Nhóm 13---CS112
+Thành viên: 
+- Lê Chí Cường (Nhóm trưởng) - 21520012
+- Đoàn Nguyễn Trần Hoàn - 21520239
