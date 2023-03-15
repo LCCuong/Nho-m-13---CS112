@@ -5,4 +5,4 @@
 
 ## Thông tin lớp học:
 
-Nội dung các buổi học, buổi thảo luận cũng như các bài tập được để trong các branch riêng biệt (trừ main branch)
+Nội dung các buổi học, buổi thảo luận cũng như các bài tập được lưu trữ trong các branch riêng biệt (trừ main branch)
