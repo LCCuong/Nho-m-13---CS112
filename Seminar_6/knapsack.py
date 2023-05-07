@@ -28,7 +28,7 @@ def BackTracking(n, idx, curr_x, v, w, W):
   for i in range(2):
     temp_x = curr_x + [i]
     # If sum of weights of current x_i (i = 1..m <= n) exceed W, 
-    # skip search on that branch in the search trê
+    # skip searching on that branch in the search trê
     if CalWeight(w, temp_x) <= W: # prunning the search tree to reduce Time Complexity
       BackTracking(n, idx + 1, temp_x, v, w, W)
 
